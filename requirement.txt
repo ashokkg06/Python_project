@@ -1,0 +1,7 @@
+datetime
+secure-smtplib
+email
+email-to
+openpyxl
+pandas
+math
